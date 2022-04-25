@@ -1,0 +1,8 @@
+### Example user template template
+.idea
+*.iml
+out
+gen
+target
+arthas-output
+rebel.xml
