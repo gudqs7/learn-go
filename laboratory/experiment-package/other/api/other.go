@@ -7,7 +7,7 @@ import "fmt"
 // 测试表明: 最后包名重复时 import 需添加别名区分
 
 func init() {
-	fmt.Println("other/api.go invoke")
+	fmt.Println("other/api.go init invoke")
 }
 
 func SayHello() {
